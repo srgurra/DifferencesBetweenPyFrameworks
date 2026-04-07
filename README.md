@@ -1,4 +1,4 @@
-# Differences Between Different Frameworks
+# Differences Between Different Python Frameworks
 # Flask vs Django vs FastAPI — Full Feature Comparison
 
 | Feature / Spec | Flask | Django | FastAPI |
